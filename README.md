@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliyeffali7
-- 👀 I’m interested in django web developmen tech
-- 🌱 I’m currently learning python language and django framework
+- 👀 I’m interested in cyber security/web security
+- 🌱 I’m currently learning cyber security and pantesting 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
