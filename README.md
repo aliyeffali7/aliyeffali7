@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliyeffali7
-- 👀 I’m interested in cyber security/web security
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently learning cyber security and pantesting 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
